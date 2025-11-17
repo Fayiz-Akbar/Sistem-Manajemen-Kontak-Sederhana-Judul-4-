@@ -6,7 +6,7 @@ Sistem Manajemen Kontak berbasis web yang ringan dan modern. Sistem ini tidak me
 data kontak akan tersimpan selama Anda tidak menutup browser atau me-restart server. Aplikasi ini dirancang dengan antarmuka yang bersih menggunakan Tailwind CSS, fungsionalitas pencarian, dan logika backend yang dipecah per fitur untuk memudahkan pemeliharaan.
 
 # Fitur :
-ini adalah fitur-fitur utamanya secara singkat:
+Berikut adalah fitur-fitur utamanya secara singkat:
 
 Tambah, Lihat, Edit, dan Hapus Kontak (CRUD).
 Penyimpanan data sementara menggunakan PHP Session (tanpa database).
