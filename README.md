@@ -26,3 +26,6 @@ Foto Wesite : Edit Kontak
 
 Foto Website : Hapus Kontak
 <img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/2c6d01fb-c3d1-4edb-aae2-3c4cd6b5ffa4" />
+
+Foto Website : Berhasil Upload 
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/9b16b077-3ff1-4478-87f2-b32bae0ebb94" />
